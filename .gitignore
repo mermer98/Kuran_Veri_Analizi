@@ -1,2 +1,48 @@
 temp.mp3
 *.db
+
+# Derleme dosyaları
+__pycache__/
+*.pyc
+
+# SQL ve geçici veri dosyaları
+*.sql
+
+# VS Code ayarları
+.vscode/
+
+# Geçici dosyalar
+*.tmp
+*.log
+
+# Diğer gereksiz dosyalar
+xxx.py
+
+# Python cache ve derleme dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Geçici dosyalar
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Veri tabanı ve büyük veri dosyaları
+*.db
+*.sql
+*.sqlite3
+
+# IDE klasörleri
+.vscode/
+.idea/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Ses, video veya geçici veri klasörleri
+*.mp3
+*.wav
+*.mp4
