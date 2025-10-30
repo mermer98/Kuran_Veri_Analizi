@@ -18,6 +18,13 @@ Bu proje, Kur'an-ı Kerim verilerini analiz etmek ve aramak için Python tabanl�
 - `veriler/`: JSON veri dosyaları
 - `utils/`: Yardımcı fonksiyonlar
 
+## Program Arayüzü
+
+![Arayüz 1](images/arayuz1.png)
+![Arayüz 2](images/arayuz2.png)
+![Arayüz 3](images/arayuz3.png)
+
+
 ## Katkı
 Katkıda bulunmak için pull request gönderebilirsiniz.
 
