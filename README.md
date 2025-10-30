@@ -30,6 +30,4 @@ Katkıda bulunmak için pull request gönderebilirsiniz.
 
 ## Lisans
 Bu proje açık kaynaklıdır.
-![Arayüz 1](images/arayuz1.png)
-![Arayüz 2](images/arayuz2.png)
-![Arayüz 3](images/arayuz3.png)
+
