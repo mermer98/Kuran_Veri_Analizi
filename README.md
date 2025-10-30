@@ -22,7 +22,7 @@ Bu proje, Kur'an-ı Kerim verilerini analiz etmek ve aramak için Python tabanl�
 Katkıda bulunmak için pull request gönderebilirsiniz.
 
 ## Lisans
-Bu proje açık kaynaklıdır..
+Bu proje açık kaynaklıdır.
 ![Arayüz 1](images/arayuz1.png)
 ![Arayüz 2](images/arayuz2.png)
 ![Arayüz 3](images/arayuz3.png)
